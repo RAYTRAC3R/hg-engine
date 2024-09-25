@@ -10489,6 +10489,17 @@ tutordata SPECIES_ENAMORUS, \
                   0
 
 
+tutordata SPECIES_LEMFY, \
+                  \
+                  \
+                  \
+                  0, \
+                  \
+                  \
+                  \
+                  0
+
+
 tutordata SPECIES_MEGA_VENUSAUR, \
                   \
                   \

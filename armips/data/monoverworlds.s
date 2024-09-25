@@ -970,6 +970,7 @@ gDimorphismTable:
 /* SPECIES_SNEASLER        */ .byte 0
 /* SPECIES_OVERQWIL        */ .byte 0
 /* SPECIES_ENAMORUS        */ .byte 0
+/* SPECIES_FEDDY        */ .byte 0
 
 .endarea
 
@@ -1936,6 +1937,7 @@ NumOfOWFormsPerMon:
 /* SPECIES_SNEASLER        */ .byte 0
 /* SPECIES_OVERQWIL        */ .byte 0
 /* SPECIES_ENAMORUS        */ .byte 1
+/* SPECIES_FEDDY       */ .byte 0
 
 
 .close
@@ -3114,4 +3116,6 @@ overworlddata 1166, OVERWORLD_CAN_ENTER, OVERWORLD_BOUNCE_FAST // SPECIES_SNEASL
 overworlddata 1167, OVERWORLD_CAN_ENTER, OVERWORLD_BOUNCE_FAST // SPECIES_OVERQWIL
 overworlddata 1168, OVERWORLD_NO_ENTRY, OVERWORLD_BOUNCE_SLOW // SPECIES_ENAMORUS
 overworlddata 1169, OVERWORLD_NO_ENTRY, OVERWORLD_BOUNCE_SLOW // therian
+
+overworlddata 1170, OVERWORLD_CAN_ENTER, OVERWORLD_BOUNCE_FAST // SPECIES_FEDDY
 

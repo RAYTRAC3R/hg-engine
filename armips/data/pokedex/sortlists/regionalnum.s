@@ -3,7 +3,7 @@
 
 .create "a214/012.bin", 0x0
 
-.halfword SPECIES_CHIKORITA
+.halfword SPECIES_LEMFY
 .halfword SPECIES_BAYLEEF
 .halfword SPECIES_MEGANIUM
 .halfword SPECIES_CYNDAQUIL

@@ -969,6 +969,8 @@ heightentry SPECIES_SNEASLER, 0, 0, 0, 0
 heightentry SPECIES_OVERQWIL, 0, 0, 0, 0
 heightentry SPECIES_ENAMORUS, 0, 0, 0, 0
 
+heightentry SPECIES_BULBASAUR, 0, 0, 0, 0
+
 heightentry SPECIES_MEGA_VENUSAUR, 3, 3, 0, 0
 heightentry SPECIES_MEGA_CHARIZARD_X, 3, 3, 0, 0
 heightentry SPECIES_MEGA_CHARIZARD_Y, 3, 3, 0, 0

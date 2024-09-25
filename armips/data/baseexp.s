@@ -961,6 +961,7 @@
 /* SPECIES_SNEASLER                    */ .halfword 179
 /* SPECIES_OVERQWIL                    */ .halfword 161
 /* SPECIES_ENAMORUS                    */ .halfword 209
+/* SPECIES_LEMFY                       */ .halfword 64
 /* SPECIES_MEGA_VENUSAUR               */ .halfword 313
 /* SPECIES_MEGA_CHARIZARD_X            */ .halfword 317
 /* SPECIES_MEGA_CHARIZARD_Y            */ .halfword 317

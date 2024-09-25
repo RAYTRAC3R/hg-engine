@@ -1522,6 +1522,7 @@ struct OVERWORLD_TAG gOWTagToFileNum[] = // skip down a bit to see the parts tha
     { .tag = 1651, .gfx = 1288, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_OVERQWIL
     { .tag = 1652, .gfx = 1289, .callback_params = OVERWORLD_SIZE_LARGE}, // SPECIES_ENAMORUS
     { .tag = 1653, .gfx = 1446, .callback_params = OVERWORLD_SIZE_LARGE}, // therian
+	{ .tag = 1654, .gfx = 1447, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_LEMFY
 
     { 0xFFFF, 0, 0},
 };

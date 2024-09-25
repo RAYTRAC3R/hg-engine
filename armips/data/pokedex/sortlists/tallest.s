@@ -546,6 +546,7 @@
 .halfword SPECIES_ZUBAT
 .halfword SPECIES_NIDORINA
 .halfword SPECIES_RAICHU
+.halfword SPECIES_LEMFY
 //.halfword SPECIES_SIZZLIPEDE
 //.halfword SPECIES_DRIZZILE
 //.halfword SPECIES_THWACKEY

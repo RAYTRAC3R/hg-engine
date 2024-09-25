@@ -33105,3 +33105,34 @@ routesandcities SPECIES_ENAMORUS, DEX_SPECIAL
     dexendareadata
 
 
+
+specialareas SPECIES_LEMFY, DEX_MORNING
+    dexendareadata
+
+
+specialareas SPECIES_LEMFY, DEX_DAY
+    dexendareadata
+
+
+specialareas SPECIES_LEMFY, DEX_NIGHT
+    dexendareadata
+
+
+routesandcities SPECIES_LEMFY, DEX_MORNING
+    dexendareadata
+
+
+routesandcities SPECIES_LEMFY, DEX_DAY
+    dexendareadata
+
+
+routesandcities SPECIES_LEMFY, DEX_NIGHT
+    dexendareadata
+
+
+specialareas SPECIES_LEMFY, DEX_SPECIAL
+    dexendareadata
+
+
+routesandcities SPECIES_LEMFY, DEX_SPECIAL
+    dexendareadata

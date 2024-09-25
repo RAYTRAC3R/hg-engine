@@ -969,6 +969,8 @@ babymon SPECIES_SNEASLER, SPECIES_SNEASEL
 babymon SPECIES_OVERQWIL, SPECIES_QWILFISH
 babymon SPECIES_ENAMORUS, SPECIES_ENAMORUS
 
+babymon SPECIES_LEMFY, SPECIES_LEMFY
+
 
 // should not *need* to define forms but these are defined here i guess
 

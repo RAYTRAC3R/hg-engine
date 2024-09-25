@@ -3743,6 +3743,14 @@ eggmoveentry SPECIES_DREEPY
 	eggmove MOVE_DISABLE
 	eggmove MOVE_DRAGON_TAIL
 	eggmove MOVE_SUCKER_PUNCH
+	
+eggmoveentry SPECIES_FEDDY
+	eggmove MOVE_BITTER_MALICE
+	eggmove MOVE_GRUDGE
+	eggmove MOVE_DOUBLE_TEAM
+	eggmove MOVE_DISABLE
+	eggmove MOVE_SUCKER_PUNCH
+	eggmove MOVE_SHADOW_CLAW
 
 eggmoveentry SPECIES_RATTATA_ALOLAN
 	eggmove MOVE_COUNTER

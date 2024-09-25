@@ -110,6 +110,7 @@
 //.halfword SPECIES_APPLETUN
 //.halfword SPECIES_ZARUDE
 //.halfword SPECIES_CALYREX
+.halfword SPECIES_LEMFY
 
 
 .close

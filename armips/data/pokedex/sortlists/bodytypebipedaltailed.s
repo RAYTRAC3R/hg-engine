@@ -192,6 +192,7 @@
 //.halfword SPECIES_OBSTAGOON
 //.halfword SPECIES_PERRSERKER
 //.halfword SPECIES_DRAGAPULT
+.halfword SPECIES_LEMFY
 
 
 .close

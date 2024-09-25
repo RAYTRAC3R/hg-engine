@@ -973,6 +973,7 @@ static const u16 sSpeciesToOWGfx[] =
     [SPECIES_SNEASLER           ] = 1166,
     [SPECIES_OVERQWIL           ] = 1167,
     [SPECIES_ENAMORUS           ] = 1168,
+    [SPECIES_LEMFY              ] = 1170,
 };
 
 

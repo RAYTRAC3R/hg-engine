@@ -978,6 +978,8 @@ gIconPalTable:
 /* SPECIES_OVERQWIL        */ .byte  0x2
 /* SPECIES_ENAMORUS        */ .byte  0x2
 
+/* SPECIES_LEMFY       */ .byte  0x2
+
 /* SPECIES_MEGA_VENUSAUR   */ .byte  0x1
 /* SPECIES_MEGA_CHARIZARD_X*/ .byte  0x0
 /* SPECIES_MEGA_CHARIZARD_Y*/ .byte  0x0

@@ -21043,6 +21043,27 @@ mondata SPECIES_ENAMORUS, "Enamorus"
     mondexclassification SPECIES_ENAMORUS, "Love-Hate Pokémon"
     mondexheight SPECIES_ENAMORUS, "5’03”"
     mondexweight SPECIES_ENAMORUS, "105.8 lbs."
+	
+mondata SPECIES_LEMFY, "Lemfy"
+    basestats 48, 62, 51, 52, 42, 61
+    types TYPE_GRASS, TYPE_GRASS
+    catchrate 45
+    baseexp 0 // defined in baseexp.s
+    evyields 0,1,0,0,0,0
+    items ITEM_NONE, ITEM_NONE
+    genderratio 191
+    eggcycles 20
+    basefriendship 50
+    growthrate GROWTH_MEDIUM_SLOW
+    egggroups EGG_GROUP_AMORPHOUS, EGG_GROUP_GRASS
+    abilities ABILITY_OVERGROW, ABILITY_NONE
+    runchance 0
+    colorflip BODY_COLOR_GREEN, 0
+    tmdata SPECIES_LEMFY_TM_DATA_0, SPECIES_LEMFY_TM_DATA_1, SPECIES_LEMFY_TM_DATA_2, SPECIES_LEMFY_TM_DATA_3
+    mondexentry SPECIES_LEMFY, "It strives to help other Pokémon.\nHowever, it also has a tendency \nto hold grudges."
+    mondexclassification SPECIES_FEDDY, "Friendly Leaf Pokémon"
+    mondexheight SPECIES_FEDDY, "2’04”"
+    mondexweight SPECIES_FEDDY, "2.5 lbs."
 
 
 mondata SPECIES_MEGA_VENUSAUR, "-----"

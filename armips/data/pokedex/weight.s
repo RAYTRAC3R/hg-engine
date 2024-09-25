@@ -962,5 +962,6 @@
 /* SPECIES_SNEASLER        */ .word 430
 /* SPECIES_OVERQWIL        */ .word 605
 /* SPECIES_ENAMORUS        */ .word 480
+/* SPECIES_LEMFY         */ .word 11
 
 .close

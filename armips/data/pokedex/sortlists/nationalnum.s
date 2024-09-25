@@ -908,6 +908,7 @@
 .halfword SPECIES_SNEASLER
 .halfword SPECIES_OVERQWIL
 .halfword SPECIES_ENAMORUS
+.halfword SPECIES_LEMFY
 
 
 .close

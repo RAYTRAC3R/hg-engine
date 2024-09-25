@@ -158,7 +158,7 @@
 /* SPECIES_DRAGONITE       */ .halfword 248
 /* SPECIES_MEWTWO          */ .halfword 254
 /* SPECIES_MEW             */ .halfword 255
-/* SPECIES_CHIKORITA       */ .halfword 1
+/* SPECIES_CHIKORITA       */ .halfword 257
 /* SPECIES_BAYLEEF         */ .halfword 2
 /* SPECIES_MEGANIUM        */ .halfword 3
 /* SPECIES_CYNDAQUIL       */ .halfword 4
@@ -963,6 +963,8 @@
 /* SPECIES_SNEASLER        */ .halfword 0
 /* SPECIES_OVERQWIL        */ .halfword 0
 /* SPECIES_ENAMORUS        */ .halfword 0
+
+/* SPECIES_LEMFY           */ .halfword 1
 
 /* SPECIES_MEGA_VENUSAUR   */ .halfword 0
 /* SPECIES_MEGA_CHARIZARD_X*/ .halfword 0

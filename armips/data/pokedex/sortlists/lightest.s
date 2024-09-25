@@ -24,6 +24,7 @@
 .halfword SPECIES_SKIPLOOM
 .halfword SPECIES_SOLOSIS
 .halfword SPECIES_JIRACHI
+.halfword SPECIES_LEMFY
 .halfword SPECIES_BUDEW
 .halfword SPECIES_DRIFLOON
 .halfword SPECIES_SHEDINJA

@@ -20737,6 +20737,22 @@ levelup SPECIES_ENAMORUS
     learnset MOVE_OUTRAGE, 70
     learnset MOVE_FISSURE, 75
     terminatelearnset
+	
+levelup SPECIES_LEMFY
+    learnset MOVE_TACKLE, 01
+    learnset MOVE_TAIL_WHIP, 03
+    learnset MOVE_ABSORB, 07
+    learnset MOVE_BITE, 13
+    learnset MOVE_PURSUIT, 15
+    learnset MOVE_RAZOR_LEAF, 19
+    learnset MOVE_TAUNT, 22
+    learnset MOVE_AGILITY, 27
+    learnset MOVE_THIEF, 29
+    learnset MOVE_MEGA_DRAIN, 30
+    learnset MOVE_FLATTER, 35
+    learnset MOVE_GIGA_DRAIN, 39
+    learnset MOVE_BOUNCE, 44
+    terminatelearnset
 
 
 levelup SPECIES_MEGA_VENUSAUR

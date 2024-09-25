@@ -963,5 +963,6 @@
 /* SPECIES_SNEASLER        */ .halfword 0x151
 /* SPECIES_OVERQWIL        */ .halfword 0x151
 /* SPECIES_ENAMORUS        */ .halfword 0x151
+/* SPECIES_LEMFY           */ .halfword 0x151
 
 .close
